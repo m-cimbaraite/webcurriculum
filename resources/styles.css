@@ -142,6 +142,7 @@ td, th {
 .acciones {
     writing-mode: vertical-lr;
     rotate: 180deg;
+    font-weight: bold;
 }
 
 footer {
